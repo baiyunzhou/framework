@@ -5,6 +5,11 @@ import org.springframework.core.io.ClassPathResource;
 
 import com.zby.service.HelloService;
 
+/**
+ * 
+ * @author Administrator
+ *
+ */
 @SuppressWarnings("deprecation")
 public class XmlBeanFactoryTest {
 
